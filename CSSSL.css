@@ -1,0 +1,15 @@
+/*Placement*/
+.no-margin{
+padding:0!important;
+}
+.no-padding{
+padding:0!important;
+}
+.offset-Y-half{
+
+position: relative;
+  top: 50%;
+  	-webkit-transform: translateY(50%);
+  	-ms-transform: translateY(50%);
+  	transform: translateY(50%);
+}
